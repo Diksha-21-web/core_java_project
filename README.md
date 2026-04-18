@@ -106,7 +106,8 @@ java -cp ".;mysql-connector-j-8.3.0.jar" MainMenu
 ---
 
 ## 🎥 Demo Video
-> *(Add your YouTube or Google Drive video link here)*
+
+https://drive.google.com/file/d/1z68uMdQ2ioM6zn3zXcyfE5AqZI8FkpQw/view?usp=sharing
 
 ---
 
